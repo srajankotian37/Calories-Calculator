@@ -1,1 +1,1 @@
-# Calories-Calculator
+Calories-Calculator - It's an Android-based application designed to calculate your minimum daily calorie intake based on your body weight and activity level. It also suggests a customized diet plan tailored to your intake.
